@@ -334,7 +334,7 @@ En un documento html cada elemento es representado como una *caja rectangular* y
 ### height (alto) y width (ancho)
 
 Podemos decirle al navegador exactamente qué tan *ancho* y *alto* queremos que sea nuestro elemento (contenido), esto se usa en divs, imgs y otros elementos basados en la altura (para determinar el tamaño del texto, necesitaremos usar un propiedad de estilo diferente). Los valores de tamaño pueden estar en muchas medidas diferentes, pero el más común es el píxel "px".
-
+ 
 ```css
   div {
     height: 400px;
